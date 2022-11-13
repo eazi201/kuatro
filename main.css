@@ -18,3 +18,8 @@
     left: 20px;
     top: 70px;
 }
+#color-list{
+    position: relative;
+    left: 4px;
+    display: inline;
+}
